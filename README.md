@@ -49,7 +49,4 @@ Some example insights include the following graphs:
 - Distribution of Daily Gross Profi Percentages  
 - Sales vs. Quantity Sold
 
-## Usage
-1. Clone the repository:  
-```bash
-git clone https://github.com/YourUsername/BrightLearn-Sales-Case-Study.git
+
