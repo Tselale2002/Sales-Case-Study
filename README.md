@@ -49,7 +49,6 @@ Some example insights include the following graphs:
 - Distribution of Daily Gross Profi Percentages  
 - Sales vs. Quantity Sold
 
-## Databricks output link:
-https://dbc-3585e9bf-7c57.cloud.databricks.com/editor/notebooks/34278397811971?o=3909121773184344
+
 
 
