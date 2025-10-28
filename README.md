@@ -1,6 +1,7 @@
 # BrightLearn Data Analytics – Sales Case Study
 
 ## Overview
+
 This project analyzes daily sales data for a single retail product using the provided dataset `Sales Case Study.csv`. The objective is to calculate key sales metrics, derive business insights, and visualize trends to support decision-making.
 
 ## Dataset
