@@ -35,7 +35,8 @@ The analysis includes:
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Jupyter Notebook    
+- Jupyter Notebook
+- Google Looker Studio
 
 ## Deliverables
 - Cleaned dataset ready for analysis  
